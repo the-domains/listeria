@@ -1,0 +1,28 @@
+name: listeria
+favicon: null
+layout_spectrum: 0.5593131894711405
+typography_spectrum: 0.5234160001855344
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.37173958448693156
+  lightness: 0.8526363573037088
+  saturation: 0.22287096176296473
+  rhythmicContrast: 0.7389366766437888
+purpose: []
