@@ -1,7 +1,7 @@
 name: listeria
 favicon: null
-layout_spectrum: 0.5593131894711405
-typography_spectrum: 0.5234160001855344
+layout_spectrum: 1
+typography_spectrum: 0.69261
 title: 'DOWNLOADABLE MEDIA LIST APPS FOR CREATIVE BUSINESS '
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#010000'
     - '#56495d'
     - '#d31f1f'
-  brandStrength: 0.25
+  brandStrength: 0.5
   lightness: 0.8526363573037088
   saturation: 0.125
   rhythmicContrast: 1
